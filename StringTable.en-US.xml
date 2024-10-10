@@ -1,0 +1,167 @@
+<!--The Reversal of the October 2024 QoL Update-->
+<Entry key="ITEM_16_2">Escort Scroll</Entry>
+<Entry key="ITEM_16_16">Consort Scroll</Entry>
+<Entry key="ITEM_16_33">Lesser Escort Scroll</Entry>
+<Entry key="ITEM_16_47">Lesser Consort Scroll</Entry>
+<Entry key="GUI_LOBBY_2_DESCRIPTION">A beautiful person skilled in distraction.</Entry>
+<Entry key="GUI_LOBBY_2_ABILITY">This role has the ability to occupy someones night preventing them from using their night ability.</Entry>
+<Entry key="GUI_LOBBY_17_DESCRIPTION">A beautiful dancer working for organized crime.</Entry>
+<Entry key="GUI_LOBBY_17_ABILITY">This role has the ability to distract one person at night, preventing them from performing their night ability.</Entry>
+<Entry key="GUI_LOBBY_26_DESCRIPTION">An obsessed lyncher who will stop at nothing to execute their target.</Entry>
+<Entry key="GUI_LOBBY_26_ABILITY">This role wins if their target is lynched while the executioner is still alive.</Entry>
+<Entry key="GUI_LOBBY_27_ABILITY">This role wins if they are lynched. The following night one of the guilty or abstaining voters will commit suicide.</Entry>
+<Entry key="GUI_LOBBY_37_DESCRIPTION">Can be Escort, Mayor, Medium, Retributionist, or Transporter.</Entry>
+<Entry key="GUI_LOBBY_39_DESCRIPTION">Can be Consigliere, Consort, or Blackmailer.</Entry>
+<Entry key="GUI_LOBBY_67_DESCRIPTION">Can be Escort, Mayor, Medium, Retributionist, or Transporter.</Entry>
+<Entry key="GUI_LOBBY_69_DESCRIPTION">Can be Consigliere, Consort, or Blackmailer.</Entry>
+<Entry key="GUI_PLAYER_STATS_7">Number of wins with Escort</Entry>
+<Entry key="GUI_PLAYER_STATS_22">Number of wins with Consort</Entry>
+<Entry key="GUI_PLAYER_STATS_79">Number of Times You Got Your Target Lynched</Entry>
+<Entry key="GUI_PLAYER_STATS_81">Number of Times You Got Yourself Lynched</Entry>
+<Entry key="GUI_PLAYER_STATS_84">Number of Times You Stabbed A Consort Or Escort</Entry>
+<Entry key="GUI_PLAYER_STATS_88">Number of Times You Mauled A Consort Or Escort</Entry>
+<Entry key="GUI_ACHIEVEMENT_TITLE15">Attendant</Entry>
+<Entry key="GUI_ACHIEVEMENT_DESC15">Win your first game as an Escort</Entry>
+<Entry key="GUI_ACHIEVEMENT_TITLE16">Tailgater</Entry>
+<Entry key="GUI_ACHIEVEMENT_DESC16">Win 5 games as an Escort</Entry>
+<Entry key="GUI_ACHIEVEMENT_TITLE17">Great Company</Entry>
+<Entry key="GUI_ACHIEVEMENT_DESC17">Win 10 games as an Escort</Entry>
+<Entry key="GUI_ACHIEVEMENT_TITLE18">Master of Distraction</Entry>
+<Entry key="GUI_ACHIEVEMENT_DESC18">Win 25 games as an Escort</Entry>
+<Entry key="GUI_ACHIEVEMENT_DESC71">Win your first game as a Consort</Entry>
+<Entry key="GUI_ACHIEVEMENT_DESC72">Win 5 games as a Consort</Entry>
+<Entry key="GUI_ACHIEVEMENT_DESC73">Win 10 games as a Consort</Entry>
+<Entry key="GUI_ACHIEVEMENT_DESC74">Win 25 games as a Consort</Entry>
+<Entry key="GUI_ACHIEVEMENT_TITLE105">Lynch 'Em</Entry>
+<Entry key="GUI_ACHIEVEMENT_TITLE106">Gas Chamber</Entry>
+<Entry key="GUI_ACHIEVEMENT_TITLE109">Suicidal</Entry>
+<Entry key="GUI_ACHIEVEMENT_DESC186">Get your target lynched on day 2</Entry>
+<Entry key="GUI_ACHIEVEMENT_DESC188">Get your target lynched on day 10 or later</Entry>
+<Entry key="GUI_ACHIEVEMENT_TITLE225">Whoops!</Entry>
+<Entry key="GUI_ACHIEVEMENT_TITLE244">Town of Salem Savant</Entry>
+<Entry key="GUI_ACHIEVEMENT_TITLE245">Savant of Good</Entry>
+<Entry key="GUI_ACHIEVEMENT_TITLE246">Savant of Business</Entry>
+<Entry key="GUI_ACHIEVEMENT_TITLE247">Savant of Magic</Entry>
+<Entry key="GUI_ACHIEVEMENT_TITLE248">Savant of Neutrality</Entry>
+<Entry key="GUI_ACHIEVEMENT_TITLE279">Day of the Dead</Entry>
+<Entry key="GUI_ROLE_SELECTED_DESC_2">You are a beautiful person skilled in distraction.</Entry>
+<Entry key="GUI_ROLE_SELECTED_DESC_17">You are a beautiful dancer working for organized crime.</Entry>
+<Entry key="GUI_ROLE_SELECTED_DESC_26">You are an obsessed lyncher who will stop at nothing to execute your target.</Entry>
+<Entry key="GUI_SUICIDE">Suicide</Entry>
+<Entry key="GUI_HE">He</Entry>
+<Entry key="GUI_SHE">She</Entry>
+<Entry key="GUI_WHO_DIED_PREFIX_HE">He</Entry>
+<Entry key="GUI_WHO_DIED_PREFIX_SHE">She</Entry>
+<Entry key="GUI_TOWN_DECIDED_TO_LYNCH_THEM" style="trial">The Town has decided to lynch %name% by a vote of &lt;color=#FF0000&gt;%x%&lt;/color&gt; to &lt;color=#66FF66&gt;%y%&lt;/color&gt;.</Entry>
+<Entry key="GUI_TOWN_DECIDED_TO_LYNCH_THEM1">The Town has decided to lynch </Entry>
+<Entry key="GUI_EXECUTIONER_COMPLETED_GOAL" style="notice">You have successfully gotten your target lynched!</Entry>
+<Entry key="GUI_JESTER_COMPLETED_GOAL" style="notice">You have successfully gotten yourself lynched!</Entry>
+<Entry key="GUI_XDIED_REASON1_1" style="notice">%gender% was also executed by the %role%.</Entry>
+<Entry key="GUI_XDIED_REASON1_2" style="notice">%gender% was executed by the %role%.</Entry>
+<Entry key="GUI_XDIED_REASON2_1" style="notice">%gender% was also shot by a %role%.</Entry>
+<Entry key="GUI_XDIED_REASON2_2" style="notice">%gender% was shot by a %role%.</Entry>
+<Entry key="GUI_XDIED_REASON3_1" style="notice">%gender% was also killed by a member of the %role%.</Entry>
+<Entry key="GUI_XDIED_REASON3_2" style="notice">%gender% was killed by a member of the %role%.</Entry>
+<Entry key="GUI_XDIED_REASON4_1" style="notice">%gender% was also incinerated by an %role%.</Entry>
+<Entry key="GUI_XDIED_REASON4_2" style="notice">%gender% was incinerated by an %role%.</Entry>
+<Entry key="GUI_XDIED_REASON5_1" style="notice">%gender% was also stabbed by a %role%.</Entry>
+<Entry key="GUI_XDIED_REASON5_2" style="notice">%gender% was stabbed by a %role%.</Entry>
+<Entry key="GUI_XDIED_REASON6_1" style="notice">%gender% apparently committed suicide.</Entry>
+<Entry key="GUI_XDIED_REASON6_2" style="notice">%gender% apparently committed suicide.</Entry>
+<Entry key="GUI_XDIED_REASON7_1" style="notice">%gender% also died from guilt over lynching the %role%.</Entry>
+<Entry key="GUI_XDIED_REASON7_2" style="notice">%gender% died from guilt over lynching the %role%.</Entry>
+<Entry key="GUI_XDIED_REASON8_1" style="notice">%gender% also died guarding someone.</Entry>
+<Entry key="GUI_XDIED_REASON8_2" style="notice">%gender% died guarding someone.</Entry>
+<Entry key="GUI_XDIED_REASON9_1" style="notice">%gender% was also killed by a %role%.</Entry>
+<Entry key="GUI_XDIED_REASON9_2" style="notice">%gender% was killed by a %role%.</Entry>
+<Entry key="GUI_XDIED_REASON10_1" style="notice">%gender% was also killed by a %role%.</Entry>
+<Entry key="GUI_XDIED_REASON10_2" style="notice">%gender% was killed by a %role%.</Entry>
+<Entry key="GUI_XDIED_REASON11_1" style="notice">%gender% also died from guilt.</Entry>
+<Entry key="GUI_XDIED_REASON11_2" style="notice">%gender% died from guilt.</Entry>
+<Entry key="GUI_XDIED_REASON12_1" style="notice">%gender% was also mauled by a %role%.</Entry>
+<Entry key="GUI_XDIED_REASON12_2" style="notice">%gender% was mauled by a %role%.</Entry>
+<Entry key="GUI_XDIED_REASON13_1" style="notice">%gender% was also staked by a %role%.</Entry>
+<Entry key="GUI_XDIED_REASON13_2" style="notice">%gender% was staked by a %role%.</Entry>
+<Entry key="GUI_XDIED_REASON14_1" style="notice">%gender% was also bitten by a %role%.</Entry>
+<Entry key="GUI_XDIED_REASON14_2" style="notice">%gender% was bitten by a %role%.</Entry>
+<Entry key="GUI_XDIED_REASON15_1" style="notice">%gender% was also killed by a %role%.</Entry>
+<Entry key="GUI_XDIED_REASON15_2" style="notice">%gender% was killed by a %role%.</Entry>
+<Entry key="GUI_XDIED_REASON16_1" style="notice">%gender% was also killed by a %role%.</Entry>
+<Entry key="GUI_XDIED_REASON16_2" style="notice">%gender% was killed by a %role%.</Entry>
+<Entry key="GUI_XDIED_REASON17_1" style="notice">%gender% was also killed by an %role%.</Entry>
+<Entry key="GUI_XDIED_REASON17_2" style="notice">%gender% was killed by an %role%.</Entry>
+<Entry key="GUI_XDIED_REASON18_1" style="notice">%gender% was also obliterated by %role%.</Entry>
+<Entry key="GUI_XDIED_REASON18_2" style="notice">%gender% was obliterated by %role%.</Entry>
+<Entry key="GUI_XDIED_REASON19_1" style="notice">%gender% was also assaulted by a %role%.</Entry>
+<Entry key="GUI_XDIED_REASON19_2" style="notice">%gender% was assaulted by a %role%.</Entry>
+<Entry key="GUI_XDIED_REASON20_1" style="notice">%gender% was also plundered by a %role%.</Entry>
+<Entry key="GUI_XDIED_REASON20_2" style="notice">%gender% was plundered by a %role%.</Entry>
+<Entry key="GUI_XDIED_REASON21_1" style="notice">%gender% was also drained by a %role%.</Entry>
+<Entry key="GUI_XDIED_REASON21_2" style="notice">%gender% was drained by a %role%.</Entry>
+<Entry key="GUI_XDIED_REASON22_1" style="notice">%gender% was also killed by the %role%.</Entry>
+<Entry key="GUI_XDIED_REASON22_2" style="notice">%gender% was killed by the %role%.</Entry>
+<Entry key="GUI_XDIED_REASON23_1" style="notice">%gender% was also hexed by the %role%.</Entry>
+<Entry key="GUI_XDIED_REASON23_2" style="notice">%gender% was hexed by the %role%.</Entry>
+<Entry key="GUI_XDIED_REASON24_1" style="notice">%gender% was also killed by the %role%.</Entry>
+<Entry key="GUI_XDIED_REASON24_2" style="notice">%gender% was killed by the %role%.</Entry>
+<Entry key="GUI_XDIED_REASON25_1" style="notice">%gender% was also poisoned by the %role%.</Entry>
+<Entry key="GUI_XDIED_REASON25_2" style="notice">%gender% was poisoned by the %role%.</Entry>
+<Entry key="GUI_XDIED_REASON26_1" style="notice">%gender% was also turned to stone by %role%.</Entry>
+<Entry key="GUI_XDIED_REASON26_2" style="notice">%gender% was turned to stone by %role%.</Entry>
+<Entry key="GUI_XDIED_REASON27_1" style="notice">%gender% also died from a %role%.</Entry>
+<Entry key="GUI_XDIED_REASON27_2" style="notice">%gender% died from a %role%.</Entry>
+<Entry key="GUI_WHO_DIED_REASON6_1">also apparently committed suicide.</Entry>
+<Entry key="GUI_WHO_DIED_REASON6_2">apparently committed suicide.</Entry>
+<Entry key="GUI_WHO_DIED_REASON11_1">also died from guilt.</Entry>
+<Entry key="GUI_WHO_DIED_REASON11_2">died from guilt.</Entry>
+<Entry key="GUI_ROLE_CARD_GOAL_0">Lynch every criminal and evildoer.</Entry>
+<Entry key="GUI_ROLE_CARD_GOAL_1">Lynch every criminal and evildoer.</Entry>
+<Entry key="GUI_ROLE_CARD_ABILITY_2">-Distract someone each night.</Entry>
+<Entry key="GUI_ROLE_CARD_ATTRIBUTE_2">-Distraction blocks your target from using their role's night ability.
+-You cannot be role blocked.</Entry>
+<Entry key="GUI_ROLE_CARD_GOAL_2">Lynch every criminal and evildoer.</Entry>
+<Entry key="GUI_ROLE_CARD_GOAL_3">Lynch every criminal and evildoer.</Entry>
+<Entry key="GUI_ROLE_CARD_GOAL_4">Lynch every criminal and evildoer.</Entry>
+<Entry key="GUI_ROLE_CARD_GOAL_5">Lynch every criminal and evildoer.</Entry>
+<Entry key="GUI_ROLE_CARD_GOAL_6">Lynch every criminal and evildoer.</Entry>
+<Entry key="GUI_ROLE_CARD_GOAL_7">Lynch every criminal and evildoer.</Entry>
+<Entry key="GUI_ROLE_CARD_GOAL_8">Lynch every criminal and evildoer.</Entry>
+<Entry key="GUI_ROLE_CARD_GOAL_9">Lynch every criminal and evildoer.</Entry>
+<Entry key="GUI_ROLE_CARD_GOAL_10">Lynch every criminal and evildoer.</Entry>
+<Entry key="GUI_ROLE_CARD_GOAL_11">Lynch every criminal and evildoer.</Entry>
+<Entry key="GUI_ROLE_CARD_GOAL_12">Lynch every criminal and evildoer.</Entry>
+<Entry key="GUI_ROLE_CARD_GOAL_13">Lynch every criminal and evildoer.</Entry>
+<Entry key="GUI_ROLE_CARD_ATTRIBUTE_14">-If you shoot another Town member you will commit suicide over the guilt.
+-You can only shoot your gun 3 times.</Entry>
+<Entry key="GUI_ROLE_CARD_GOAL_14">Lynch every criminal and evildoer.</Entry>
+<Entry key="GUI_ROLE_CARD_ABILITY_17">-Distract someone each night.</Entry>
+<Entry key="GUI_ROLE_CARD_ATTRIBUTE_17">-Distraction blocks your target from using their role's night ability.
+-If there are no kill capable Mafia roles left you will become a   <![CDATA[<color=#DD0000>]]>Mafioso  <![CDATA[</color>]]>.
+-You can talk with the other Mafia at night.
+-You cannot be role blocked.</Entry>
+<Entry key="GUI_ROLE_CARD_ABILITY_26">-Trick the Town into lynching your target.</Entry>
+<Entry key="GUI_ROLE_CARD_GOAL_26">Get your target lynched at any cost.</Entry>
+<Entry key="GUI_ROLE_CARD_ATTRIBUTE_27">-If you are lynched you will attack one of your guilty or abstaining voters the following night with an %GUI_ROLE_CARD_UNSTOPPABLE_ATTACK% attack.</Entry>
+<Entry key="GUI_ROLE_CARD_GOAL_27">Get yourself lynched by any means necessary.</Entry>
+<Entry key="GUI_TIP3">Tip: Randomly lynching a player favors the evil roles.</Entry>
+<Entry key="GUI_TIP8">Tip: An Escort/Consort may be attacked if they roleblock an incautious Serial Killer. This does not always mean the target they visited the night they died was the Serial Killer though.</Entry>
+<Entry key="GUI_ROLE_CARD_GOAL_46">Lynch every criminal and evildoer.</Entry>
+<Entry key="GUI_ROLE_CARD_GOAL_47">Lynch every criminal and evildoer.</Entry>
+<Entry key="GUI_ROLE_CARD_GOAL_48">Lynch every criminal and evildoer.</Entry>
+<Entry key="GUI_ROLE_CARD_GOAL_49">Lynch every criminal and evildoer.</Entry>
+<Entry key="GUI_ZOMBIE_ACTION_VERB2">distract</Entry>
+<Entry key="GUI_ZOMBIE_ACTION_VERB17">distract</Entry>
+<Entry key="GAME_26">Your target could be an   <![CDATA[<color=#7FFF00>]]>Escort  <![CDATA[</color>]]>,   <![CDATA[<color=#7FFF00>]]>Transporter  <![CDATA[</color>]]>,   <![CDATA[<color=#DD0000>]]>Consort  <![CDATA[</color>]]>, or   <![CDATA[<color=#DD0000>]]>Hypnotist  <![CDATA[</color>]]>.</Entry>
+<Entry key="GAME_COVEN26">Your target could be an   <![CDATA[<color=#7FFF00>]]>Escort  <![CDATA[</color>]]>,   <![CDATA[<color=#7FFF00>]]>Transporter  <![CDATA[</color>]]>,   <![CDATA[<color=#DD0000>]]>Consort  <![CDATA[</color>]]>, or   <![CDATA[<color=#DD0000>]]>Hypnotist  <![CDATA[</color>]]>.</Entry>
+<Entry key="GAME_47">Your target is a beautiful person working for the town. They must be an   <![CDATA[<color=#7FFF00>]]>Escort  <![CDATA[</color>]]>!</Entry>
+<Entry key="GAME_62">Your target is a beautiful person working for the Mafia. They must be a   <![CDATA[<color=#DD0000>]]>Consort  <![CDATA[</color>]]>!</Entry>
+<Entry key="GAME_71">Your target wants someone to be lynched at any cost. They must be an   <![CDATA[<color=#CBCBC8>]]>Executioner  <![CDATA[</color>]]>!</Entry>
+<Entry key="GAME_72">Your target wants to be lynched. They must be a   <![CDATA[<color=#F5A6D4>]]>Jester  <![CDATA[</color>]]>!</Entry>
+<Entry key="GAME_83" style="alert">You were haunted by the Jester. You committed suicide over the guilt!</Entry>
+<Entry key="GAME_SPY_RESULT_83" style="spy">Your target was haunted by the Jester and committed suicide!</Entry>
+<Entry key="GUI_ROLE_2">Escort</Entry>
+<Entry key="GUI_ROLE_17">Consort</Entry>
+<Entry key="GUI_ROLE_ABILITY_VERB_2">Distract</Entry>
+<Entry key="GUI_ROLE_ABILITY_VERB_17">Distract</Entry>
+<Entry key="GUI_PROMOTION_008_SCROLLS">10 Escort Scrolls</Entry>
+<Entry key="GUI_PROMOTION_088_SCROLLS">10 Consort Scrolls</Entry>
