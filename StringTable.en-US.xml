@@ -4,7 +4,7 @@
 <Entry key="ITEM_16_33">Lesser Escort Scroll</Entry>
 <Entry key="ITEM_16_47">Lesser Consort Scroll</Entry>
 <Entry key="GUI_LOBBY_2_DESCRIPTION">A beautiful person skilled in distraction.</Entry>
-<Entry key="GUI_LOBBY_2_ABILITY">This role has the ability to occupy someones night preventing them from using their night ability.</Entry>
+<Entry key="GUI_LOBBY_2_ABILITY">This role has the ability to occupy someone's night preventing them from using their night ability.</Entry>
 <Entry key="GUI_LOBBY_17_DESCRIPTION">A beautiful dancer working for organized crime.</Entry>
 <Entry key="GUI_LOBBY_17_ABILITY">This role has the ability to distract one person at night, preventing them from performing their night ability.</Entry>
 <Entry key="GUI_LOBBY_26_DESCRIPTION">An obsessed lyncher who will stop at nothing to execute their target.</Entry>
@@ -136,7 +136,7 @@
 <Entry key="GUI_ROLE_CARD_GOAL_14">Lynch every criminal and evildoer.</Entry>
 <Entry key="GUI_ROLE_CARD_ABILITY_17">-Distract someone each night.</Entry>
 <Entry key="GUI_ROLE_CARD_ATTRIBUTE_17">-Distraction blocks your target from using their role's night ability.
--If there are no kill capable Mafia roles left you will become a   <![CDATA[<color=#DD0000>]]>Mafioso  <![CDATA[</color>]]>.
+-If there are no kill capable Mafia roles left you will become a <![CDATA[<color=#DD0000>]]>Mafioso<![CDATA[</color>]]>.
 -You can talk with the other Mafia at night.
 -You cannot be role blocked.</Entry>
 <Entry key="GUI_ROLE_CARD_ABILITY_26">-Trick the Town into lynching your target.</Entry>
@@ -151,12 +151,12 @@
 <Entry key="GUI_ROLE_CARD_GOAL_49">Lynch every criminal and evildoer.</Entry>
 <Entry key="GUI_ZOMBIE_ACTION_VERB2">distract</Entry>
 <Entry key="GUI_ZOMBIE_ACTION_VERB17">distract</Entry>
-<Entry key="GAME_26">Your target could be an   <![CDATA[<color=#7FFF00>]]>Escort  <![CDATA[</color>]]>,   <![CDATA[<color=#7FFF00>]]>Transporter  <![CDATA[</color>]]>,   <![CDATA[<color=#DD0000>]]>Consort  <![CDATA[</color>]]>, or   <![CDATA[<color=#DD0000>]]>Hypnotist  <![CDATA[</color>]]>.</Entry>
-<Entry key="GAME_COVEN26">Your target could be an   <![CDATA[<color=#7FFF00>]]>Escort  <![CDATA[</color>]]>,   <![CDATA[<color=#7FFF00>]]>Transporter  <![CDATA[</color>]]>,   <![CDATA[<color=#DD0000>]]>Consort  <![CDATA[</color>]]>, or   <![CDATA[<color=#DD0000>]]>Hypnotist  <![CDATA[</color>]]>.</Entry>
-<Entry key="GAME_47">Your target is a beautiful person working for the town. They must be an   <![CDATA[<color=#7FFF00>]]>Escort  <![CDATA[</color>]]>!</Entry>
-<Entry key="GAME_62">Your target is a beautiful person working for the Mafia. They must be a   <![CDATA[<color=#DD0000>]]>Consort  <![CDATA[</color>]]>!</Entry>
-<Entry key="GAME_71">Your target wants someone to be lynched at any cost. They must be an   <![CDATA[<color=#CBCBC8>]]>Executioner  <![CDATA[</color>]]>!</Entry>
-<Entry key="GAME_72">Your target wants to be lynched. They must be a   <![CDATA[<color=#F5A6D4>]]>Jester  <![CDATA[</color>]]>!</Entry>
+<Entry key="GAME_26">Your target could be an <![CDATA[<color=#7FFF00>]]>Escort<![CDATA[</color>]]>, <![CDATA[<color=#7FFF00>]]>Transporter<![CDATA[</color>]]>, <![CDATA[<color=#DD0000>]]>Consort<![CDATA[</color>]]>, or <![CDATA[<color=#DD0000>]]>Hypnotist<![CDATA[</color>]]>.</Entry>
+<Entry key="GAME_COVEN26">Your target could be an <![CDATA[<color=#7FFF00>]]>Escort<![CDATA[</color>]]>, <![CDATA[<color=#7FFF00>]]>Transporter<![CDATA[</color>]]>, <![CDATA[<color=#DD0000>]]>Consort<![CDATA[</color>]]>, or <![CDATA[<color=#DD0000>]]>Hypnotist<![CDATA[</color>]]>.</Entry>
+<Entry key="GAME_47">Your target is a beautiful person working for the town. They must be an <![CDATA[<color=#7FFF00>]]>Escort<![CDATA[</color>]]>!</Entry>
+<Entry key="GAME_62">Your target is a beautiful person working for the Mafia. They must be a <![CDATA[<color=#DD0000>]]>Consort<![CDATA[</color>]]>!</Entry>
+<Entry key="GAME_71">Your target wants someone to be lynched at any cost. They must be an <![CDATA[<color=#CBCBC8>]]>Executioner<![CDATA[</color>]]>!</Entry>
+<Entry key="GAME_72">Your target wants to be lynched. They must be a <![CDATA[<color=#F5A6D4>]]>Jester<![CDATA[</color>]]>!</Entry>
 <Entry key="GAME_83" style="alert">You were haunted by the Jester. You committed suicide over the guilt!</Entry>
 <Entry key="GAME_SPY_RESULT_83" style="spy">Your target was haunted by the Jester and committed suicide!</Entry>
 <Entry key="GUI_ROLE_2">Escort</Entry>
