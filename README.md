@@ -11,4 +11,4 @@ How to apply:
 1. Locate the game directory. If you don't know where: Find the game in your library, open Properties, switch to Local Files, and click Browse.
 2. From there, go to the following directory: \TownOfSalem_Data\StreamingAssets\res\WebAssets\XMLData
 3. Open StringTable.en-US.xml.
-4. Copy the content from this repository and paste it above all <Entry>s, make sure that the content stays within <StringTable>.
+4. Copy the content from this repository and paste it above all \<Entry\>s, make sure that the content stays within \<StringTable\>.
