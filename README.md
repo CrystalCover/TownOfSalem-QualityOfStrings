@@ -1,4 +1,7 @@
+Have you viewed [Dawn of Salem](https://github.com/CrystalCover/TownOfSalem-DawnOfSalem)?
+
 # TownOfSalem-QualityOfStrings
+
 This is for the Steam version only.
 
 The reversal consists of the following:
